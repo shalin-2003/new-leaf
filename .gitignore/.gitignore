@@ -1,0 +1,88 @@
+<html>
+<title>this is my new shit </title>
+<style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+li{text-align: left;}
+</style>
+    <body>
+    Hi shalin here, I am in my <strong>hometown </strong> <br>
+    <ul type="square">
+    <li>this is first item of unordered list </li>
+
+    <li> thsi is second item of unordered  list</li><br>
+    
+    <ol type="1">
+    <li> this is the first item of ordered list</li>
+    <li> this is an experiment</li>
+    <li> this is the second item of ordered list</li><br>
+    
+    
+    <table>
+    <thead> 
+    <tr> 
+    <th> name </<th>  
+    <th> role </th>
+    
+     </tr>
+      <tr> 
+      <td>  shalin </td>
+      
+      <td>ceo</td>
+       </tr>
+    <tr> 
+      <td> code </td>
+      
+      <td>cfo</td>
+       </tr>
+       </thead>
+    </table>
+
+   
+   <h2>this is form section </h2>
+   <hr>
+   <form action ="backend php">
+  <label for="name"> Name</label>
+   <div>
+   Name:<input type="text" name="myname" id="Name"div>
+   <div>
+   role:<input type="text" name="my role"></div>
+   <div>
+   email:<input type="email" name="my email"></div>
+   <div>
+   date:<input type="date" name="mydate"></div>
+ 
+   <div>
+   bonus:<input type="number" name="mybonus">
+    </div>
+   <div>
+   are you interested:<input type="checkbox" name="myinterest">
+    </div>
+   <div>
+   gender:Male<input type="radio"name="mygender">Female<input type="radio"name="mygender">
+   </div>
+   <div>
+   write about yourself:<input type="textarea"name="mytext"cols="10"rows="20"
+   </div>
+   <br>
+   <div>
+   <label for="city"></label>
+   <select name="mycity"id="city"
+   <option value="bom">Bombay</option>
+      <option value="vad">Vadodara</option><br>
+   
+     <div>
+   <input type="submit" name="submit now"></div>
+   <input type="reset" name="reset immediatly></div>
+   
+   
+   
+   
+   
+   </form>
+       <br><h1><a href="https://www.google.com"target=''_blank''>gooooogle!</a></h1><br>
+   <body style="background-color:purple;">
+
+    </body>
+</html>
